@@ -1,0 +1,29 @@
+[workspace]
+members = ["crates/blackjack-core"]
+resolver = "3"
+
+[package]
+name = "blackjack"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.92"
+description = "A local, offline blackjack table built with Rust, GPUI and GPUI Kit"
+publish = false
+
+[dependencies]
+blackjack-core = { path = "crates/blackjack-core" }
+gpui-kit = "0.8.0"
+
+[profile.dev.package]
+gpui-pre = { opt-level = 3 }
+gpui-pre-platform = { opt-level = 3 }
+gpui-component = { opt-level = 3 }
+gpui-kit = { opt-level = 3 }
+gpui-kit-assets = { opt-level = 3 }
+rustybuzz = { opt-level = 3 }
+taffy = { opt-level = 3 }
+ttf-parser = { opt-level = 3 }
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
