@@ -1,0 +1,11 @@
+[package]
+name = "blackjack-core"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.92"
+description = "Rules-driven blackjack engine with a six-deck shoe and split hands"
+license = "MIT"
+publish = false
+
+[dependencies]
+rand = "0.9"
