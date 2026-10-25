@@ -9,72 +9,72 @@
   <rect x="1.5" y="1.5" width="247" height="347" rx="17" fill="url(#paper)" stroke="#cbb994" stroke-width="2.2"/>
   <rect x="9" y="9" width="232" height="332" rx="11" fill="none" stroke="#b5a075" stroke-width="0.9" opacity="0.65"/>
   <g transform="translate(86 90)">
-    <g transform="scale(0.82)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+    <g transform="scale(0.82)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
   </g>
 <g transform="translate(164 90)">
-    <g transform="scale(0.82)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+    <g transform="scale(0.82)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
   </g>
 <g transform="translate(125 132)">
-    <g transform="scale(0.82)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+    <g transform="scale(0.82)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
   </g>
 <g transform="translate(86 175)">
-    <g transform="scale(0.82)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+    <g transform="scale(0.82)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
   </g>
 <g transform="translate(164 175)">
-    <g transform="scale(0.82)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+    <g transform="scale(0.82)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
   </g>
 <g transform="translate(86 260) rotate(180)">
-    <g transform="scale(0.82)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+    <g transform="scale(0.82)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
   </g>
 <g transform="translate(164 260) rotate(180)">
-    <g transform="scale(0.82)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+    <g transform="scale(0.82)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
   </g>
   
     <g>
       <g transform="translate(18.93 55.00)"><path d="M1.36-30.74Q1.89-30.62 3.30-30.56Q4.72-30.50 6.55-30.47Q8.38-30.44 10.15-30.44L26.79-30.44L26.79-29.21Q25.67-26.55 23.92-23.51Q22.18-20.47 20.44-16.90Q18.70-13.33 17.55-9.23Q16.40-5.13 16.40-0.35Q16.40 0 16.49 0.94Q16.58 1.89 16.64 2.86Q16.70 3.84 16.70 4.43Q16.70 6.08 15.64 7.40Q14.57 8.73 12.39 8.73Q10.21 8.73 9.15 7.26Q8.08 5.78 8.08 3.54Q8.08 0.30 9.26-2.89Q10.44-6.08 12.33-9.17Q14.22-12.27 16.40-15.22Q18.59-18.17 20.71-20.89Q21.65-22.12 22.48-23.31L6.79-23.31Q4.37-23.31 3.72-22.71Q3.07-22.12 2.83-20.65L1.59-20.65Q1.59-24.54 1.53-26.82Q1.48-29.09 1.36-30.74" fill="#1b2b26"/></g>
-      <g transform="translate(33 74) scale(0.42)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+      <g transform="translate(33 74) scale(0.42)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
     </g>
   <g transform="rotate(180 125 175)">
     
     <g>
       <g transform="translate(18.93 55.00)"><path d="M1.36-30.74Q1.89-30.62 3.30-30.56Q4.72-30.50 6.55-30.47Q8.38-30.44 10.15-30.44L26.79-30.44L26.79-29.21Q25.67-26.55 23.92-23.51Q22.18-20.47 20.44-16.90Q18.70-13.33 17.55-9.23Q16.40-5.13 16.40-0.35Q16.40 0 16.49 0.94Q16.58 1.89 16.64 2.86Q16.70 3.84 16.70 4.43Q16.70 6.08 15.64 7.40Q14.57 8.73 12.39 8.73Q10.21 8.73 9.15 7.26Q8.08 5.78 8.08 3.54Q8.08 0.30 9.26-2.89Q10.44-6.08 12.33-9.17Q14.22-12.27 16.40-15.22Q18.59-18.17 20.71-20.89Q21.65-22.12 22.48-23.31L6.79-23.31Q4.37-23.31 3.72-22.71Q3.07-22.12 2.83-20.65L1.59-20.65Q1.59-24.54 1.53-26.82Q1.48-29.09 1.36-30.74" fill="#1b2b26"/></g>
-      <g transform="translate(33 74) scale(0.42)"><g fill="#1b2b26">
-    <circle cx="-10" cy="-8" r="10"/>
-    <circle cx="10" cy="-8" r="10"/>
-    <circle cx="0" cy="7" r="10"/>
-    <path d="M-5 9 C-9 15 -13 24 -13 24 L13 24 C13 24 9 15 5 9 Z"/></g></g>
+      <g transform="translate(33 74) scale(0.42)"><g fill="#1b2b26" transform="translate(-22.5 -19.875) scale(0.75)">
+    <circle cx="18" cy="35" r="14"/>
+    <circle cx="30" cy="15" r="14"/>
+    <circle cx="42" cy="35" r="14"/>
+    <path d="M30,30 Q30,50 20,60 H40 Q30,50 30,30"/></g></g>
     </g>
   </g>
 </svg>

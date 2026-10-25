@@ -8,13 +8,13 @@
   </defs>
   <rect x="1.5" y="1.5" width="247" height="347" rx="17" fill="url(#paper)" stroke="#cbb994" stroke-width="2.2"/>
   <rect x="9" y="9" width="232" height="332" rx="11" fill="none" stroke="#b5a075" stroke-width="0.9" opacity="0.65"/>
-  <g transform="translate(125 102) rotate(180)">
+  <g transform="translate(125 102)">
     <g transform="scale(0.82)"><g fill="#ae3a40">
     <path d="M0 22 C-7 14 -23 4 -23 -8 C-23 -18 -14 -24 -6 -21
              C-2 -20 0 -17 0 -13 C0 -17 2 -20 6 -21 C14 -24 23 -18 23 -8
              C23 4 7 14 0 22 Z"/></g></g>
   </g>
-<g transform="translate(125 248)">
+<g transform="translate(125 248) rotate(180)">
     <g transform="scale(0.82)"><g fill="#ae3a40">
     <path d="M0 22 C-7 14 -23 4 -23 -8 C-23 -18 -14 -24 -6 -21
              C-2 -20 0 -17 0 -13 C0 -17 2 -20 6 -21 C14 -24 23 -18 23 -8
